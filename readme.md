@@ -14,7 +14,7 @@ I enjoy working close to the system level, especially on Linux, exploring low-le
 Building 64-bit Linux buffer overflow exploits involving libc leaks, ROP chains, and ASLR bypass.
 
 **Wi-Fi Deauthentication DoS Mitigation**  
-Designing detection and prevention techniques for Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification.
+Designing detection and prevention techniques for Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification. (still under process )
 
 **Realtek Driver Updater**  
 A Linux utility that automates cloning, building, and installing Realtek Wi-Fi drivers on Arch-based systems.
