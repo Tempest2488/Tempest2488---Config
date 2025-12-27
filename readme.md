@@ -1,41 +1,36 @@
-<h1 align="center">Hi, I’m Talen 👋</h1>
+<h1 align="center">Talen Serrao</h1>
+<p align="center"><b>Cyber Security · Exploit Development · Linux</b></p>
 
-<p align="center">
-Cyber Security Graduate • Exploit Development • Linux
-</p>
+<hr>
 
----
+### Overview
+Cyber Security graduate with a strong interest in exploit development, reverse engineering, and offensive security research.  
+Primary focus on Linux-based systems, low-level vulnerabilities, and network-level attacks.
 
-###  About Me
-- Cyber Security graduate with hands-on experience in exploit development and reverse engineering  
-- Strong focus on Linux-based security research and offensive techniques  
-- Interested in low-level vulnerabilities, ROP chains, and network attacks  
+<hr>
 
----
+### Work & Projects
+**Exploit Development (ROP & ret2libc)**  
+64-bit Linux buffer overflow exploits involving libc leaks, ROP chains, and ASLR bypass.
 
-###  Featured Work
-- **ROP & ret2libc Exploits**  
-  64-bit Linux buffer overflow exploits with libc leaks and ASLR bypass  
+**Wi-Fi Deauthentication DoS Mitigation**  
+Detection and prevention of Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification.
 
-- **Wi-Fi Deauthentication DoS Mitigation**  
-  Detection and prevention of Wi-Fi deauth attacks using traffic analysis and Neural Networks  
+**Realtek Driver Updater**  
+Linux utility to automate cloning, building, and installing Realtek Wi-Fi drivers on Arch-based systems.
 
-- **Realtek Driver Updater**  
-  Linux utility to automate cloning, building, and installing Realtek Wi-Fi drivers  
+**Steganography Image Encoder / Decoder**  
+Python-based tool for embedding and extracting hidden text within images.
 
-- **Steganography Image Encoder/Decoder**  
-  Python-based tool for hiding and extracting text inside images  
+<hr>
 
----
+### Technical Focus
+- **Languages:** Python, C, Bash  
+- **Exploitation:** pwntools, ROP, GDB  
+- **Reverse Engineering:** Ghidra, Cutter  
+- **Networking:** TCP/IP, Wi-Fi security  
+- **Platforms:** Linux (Arch, Kali)
 
-###  Skills
-- Languages: Python, C, Bash  
-- Exploitation: pwntools, ROP, GDB  
-- Reverse Engineering: Ghidra, Cutter  
-- Networking: TCP/IP, Wi-Fi Security  
-- Platforms: Linux (Arch, Kali)  
+<hr>
 
----
-
-### 🔗 Links
-- 🌐 Website: https://talenserrao.github.io
+**Website:** https://talenserrao.github.io
