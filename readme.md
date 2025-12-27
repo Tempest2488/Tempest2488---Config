@@ -13,8 +13,9 @@ I enjoy working close to the system level, especially on Linux, exploring low-le
 **Exploit Development (ROP & ret2libc)**  
 Building 64-bit Linux buffer overflow exploits involving libc leaks, ROP chains, and ASLR bypass.
 
-**Wi-Fi Deauthentication DoS Mitigation**  
-Designing detection and prevention techniques for Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification. (still under process )
+**GUI-Based Command & Control Program**  
+A Python-based application that allows commands to be sent to connected clients and displays their responses.  
+Built using Python 3 with a Tkinter-based graphical user interface.
 
 **Realtek Driver Updater**  
 A Linux utility that automates cloning, building, and installing Realtek Wi-Fi drivers on Arch-based systems.
