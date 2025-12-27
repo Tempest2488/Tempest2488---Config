@@ -1,4 +1,4 @@
- Hi, I’m ShaDoW (Talen Serrao)
+ Hi, I’m Talen Serrao
 
  MSc Cyber Security Engineering @ University of Warwick  
  First-Class BSc Ethical Hacking & Cyber Security  
