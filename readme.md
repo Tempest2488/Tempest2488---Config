@@ -4,23 +4,23 @@
 <hr>
 
 ### Overview
-Cyber Security graduate with a strong interest in exploit development, reverse engineering, and offensive security research.  
-Primary focus on Linux-based systems, low-level vulnerabilities, and network-level attacks.
+I’m a Cyber Security graduate with a strong interest in exploit development, reverse engineering, and offensive security research.  
+I enjoy working close to the system level, especially on Linux, exploring low-level vulnerabilities and network-based attacks.
 
 <hr>
 
 ### Work & Projects
 **Exploit Development (ROP & ret2libc)**  
-64-bit Linux buffer overflow exploits involving libc leaks, ROP chains, and ASLR bypass.
+Building 64-bit Linux buffer overflow exploits involving libc leaks, ROP chains, and ASLR bypass.
 
 **Wi-Fi Deauthentication DoS Mitigation**  
-Detection and prevention of Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification.
+Designing detection and prevention techniques for Wi-Fi deauthentication attacks using traffic analysis and neural network-based classification.
 
 **Realtek Driver Updater**  
-Linux utility to automate cloning, building, and installing Realtek Wi-Fi drivers on Arch-based systems.
+A Linux utility that automates cloning, building, and installing Realtek Wi-Fi drivers on Arch-based systems.
 
 **Steganography Image Encoder / Decoder**  
-Python-based tool for embedding and extracting hidden text within images.
+A Python-based tool for embedding and extracting hidden text within images.
 
 <hr>
 
