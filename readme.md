@@ -4,8 +4,10 @@
 <hr>
 
 ### Overview
-I’m a Cyber Security graduate with a strong interest in exploit development, reverse engineering, and offensive security research.  
-I enjoy working close to the system level, especially on Linux, exploring low-level vulnerabilities and network-based attacks.
+I’m a **Cyber Security graduate** with a strong interest in exploit development, reverse engineering, and offensive security research.  
+I hold **First Class Honours in Cybersecurity and Ethical Hacking from Coventry University 🇬🇧** and am currently pursuing an **MSc in Cyber Security Engineering at the University of Warwick**.
+
+I enjoy working close to the system level, especially on Linux, exploring low-level vulnerabilities and network-based attacks. I’m particularly passionate about breaking and securing systems — from exploiting buffer overflows to designing secure communication protocols.
 
 <hr>
 
